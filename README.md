@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Au-rav
+- 👋 Hi, I’m @bytebabe
 - 👀 I’m interested in Programming and Data Science
 - 🌱 I’m currently learning Python, JavaScript and Java
 - 📫 How to reach me - aishwaryasuresh9612@gmail.com or aishwar1@st.ovgu.de
